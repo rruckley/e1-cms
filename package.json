@@ -1,8 +1,8 @@
 {
   "name": "e-1-cms",
   "private": true,
-  "version": "0.1.0",
-  "description": "A Strapi application",
+  "version": "0.1.1",
+  "description": "E1 CMS",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
