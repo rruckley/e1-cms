@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "knowledge_homes",
+  "info": {
+    "singularName": "knowledge-home",
+    "pluralName": "knowledge-homes",
+    "displayName": "Knowledge Home"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Body": {
+      "type": "richtext"
+    },
+    "Media": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
